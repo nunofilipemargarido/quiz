@@ -27,7 +27,7 @@ sequelize.sync().then(function(){
 			
 			Quiz.create({
 				pergunta:'Capital de Espanha',
-				respuesta:'Madrid',
+				respuesta:'M',
 			});
 					
 			Quiz.create({
